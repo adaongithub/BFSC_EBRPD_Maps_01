@@ -15,18 +15,19 @@ Layers and Groups:
 
 Appearance:
   Add abstract: upper left (though project meta data currently empty)
-  Add laysers list: Expanded
+  Add layers list: Expanded
   Attribute filter: []
 
   Highight on hover: ON
   Layer search:  None
+  Template: full-screen
 
 Export:
   Export to folder...
   Minify GeoJSON files: ON
 
 
-2023-07-12
+2023-07-11
 
 Creating Leaflet map...
 Exporting libraries... done
@@ -44,7 +45,7 @@ Writing RTA as JSON... done
 Writing HTML... done
 Success
 Exported to /Users/ada/pers/home/2511HillCourt/neighborhood/HFSG/EBRPD/maps/EBRPD_requested_maps/output/qgis2web/01_All_Layers_Leaflet
-
+qgis2web_2023_07_11-02_50_25_444856
 
 ===============================================================================
 
