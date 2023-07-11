@@ -1,0 +1,93 @@
+
+EBRPD shapefiles
+RTA
+Tree_Dieback
+EBHills_Veg_2006
+Basemaps & Imagery
+   OSM Standard
+   Google Satellite
+
+Layers and Groups:
+   All layers:  Checked, Visible, Popups
+      All Popup fields: inline label
+   Base Maps:
+      Enable GetFeatureInfo: OFF
+
+Appearance:
+  Add abstract: upper left (though project meta data currently empty)
+  Add laysers list: Expanded
+  Attribute filter: []
+
+  Highight on hover: ON
+  Layer search:  None
+
+Export:
+  Export to folder...
+  Minify GeoJSON files: ON
+
+
+2023-07-12
+
+Creating Leaflet map...
+Exporting libraries... done
+Writing CSS... done
+Exporting EBHills_Veg_2006 to JSON... done
+Exporting Eucalyptus_EBHills_Veg_2006 to JSON... done
+Exporting Tree_Dieback to JSON... done
+Exporting RTA to JSON... done
+Writing Google Satellite as WMS layer... done
+Writing OSM Standard as WMS layer... done
+Writing EBHills_Veg_2006 as JSON... done
+Writing Eucalyptus_EBHills_Veg_2006 as JSON... done
+Writing Tree_Dieback as JSON... done
+Writing RTA as JSON... done
+Writing HTML... done
+Success
+Exported to /Users/ada/pers/home/2511HillCourt/neighborhood/HFSG/EBRPD/maps/EBRPD_requested_maps/output/qgis2web/01_All_Layers_Leaflet
+
+
+===============================================================================
+
+Old log example -- remove when not helpful here
+2023-06-04
+
+Creating Leaflet map...
+Exporting libraries... done
+Writing CSS... done
+Exporting California_County_Boundaries.gdb cnty19_1_labels copy to JSON... done
+Exporting City_Boundaries_labels_thick_border copy to JSON... done
+Exporting Select_Oak_Parcels_Parcel_Boundaries_UseType_NonResidential_UCB_mailing_address_nonopaque to JSON... done
+Exporting Select_B_Parcels_Parcel_Boundaries_UseType_NonResidential_UCB_mailing_address_nonopaque to JSON... done
+Exporting Union_SAGA_Polygon_Main_CK_Reproj_7131 to JSON... done
+Exporting Union_SAGA_Polygon_Main_CK_Reproj_7131_labels to JSON... done
+Exporting Collected_Union_SAGA_Polygon_Main_CK_Reproj_7131 to JSON... done
+Exporting Collected_Union_SAGA_Polygon_Main_CK_Reproj_7131_Buffer_0.50_mi to JSON... done
+Exporting Main_CK_0.50_mi_ring to JSON... done
+Exporting Streets_GeoPkg_CB_Reproj_7131_Intersection_Main_CK_0.50_mi_ring to JSON... done
+Exporting Streets_GeoPkg_Intersection_Main_CK_0.50_mi_ring to JSON... done
+Writing MapQuest Aerial as WMS layer... done
+Writing Mapbox Satellite v9 as WMS layer... done
+Writing Mapbox Satellite Streets v9 as WMS layer... done
+Writing mapbox.satellite as WMS layer... done
+Writing Google Satellite Hybrid as WMS layer... done
+Writing Google Satellite as WMS layer... done
+Writing USGS Topographic Maps as WMS layer... done
+Writing Bing maps as WMS layer... done
+Writing Bing Aerial as WMS layer... done
+Writing OpenStreetMap as WMS layer... done
+Writing California_County_Boundaries.gdb cnty19_1_labels copy as JSON... done
+Writing City_Boundaries_labels_thick_border copy as JSON... done
+Writing Select_Oak_Parcels_Parcel_Boundaries_UseType_NonResidential_UCB_mailing_address_nonopaque as JSON... done
+Writing Select_B_Parcels_Parcel_Boundaries_UseType_NonResidential_UCB_mailing_address_nonopaque as JSON... done
+Writing Union_SAGA_Polygon_Main_CK_Reproj_7131 as JSON... done
+Writing Union_SAGA_Polygon_Main_CK_Reproj_7131_labels as JSON... done
+Writing Collected_Union_SAGA_Polygon_Main_CK_Reproj_7131 as JSON... done
+Writing Collected_Union_SAGA_Polygon_Main_CK_Reproj_7131_Buffer_0.50_mi as JSON... done
+Writing Main_CK_0.50_mi_ring as JSON... done
+Writing Streets_GeoPkg_CB_Reproj_7131_Intersection_Main_CK_0.50_mi_ring as JSON... done
+Writing Streets_GeoPkg_Intersection_Main_CK_0.50_mi_ring as JSON... done
+Writing HTML... done
+Success
+Exported to /private/var/folders/5_/nk5lp11x13vgtq5gthlbqffm0000gn/T/qgis2web
+
+
